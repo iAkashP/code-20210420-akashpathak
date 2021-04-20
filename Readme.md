@@ -12,8 +12,3 @@ To run the code:
 + For import package use wheel: cd `pip install dist\BMI_Calculator-0.1-py3-none-any.whl`
 + Import `BMI_Calculator`
 
-
-
-
-**For more info** go through [Bacteria_strip_readme.pdf](https://github.com/iAkashP/Bacteria_strip_segmentation/blob/master/Bacteria_strip_readme.pdf).
-
