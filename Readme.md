@@ -1,4 +1,4 @@
-<P> Python BMI Calculator Coding Challenge </P>
+## Python BMI Calculator Coding Challenge
 
 To run the code: 
 
